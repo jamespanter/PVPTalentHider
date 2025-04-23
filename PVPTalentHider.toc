@@ -1,0 +1,13 @@
+## Interface: 110105
+
+## Title: PVPTalentHider
+## Version: @project-version@
+## Notes: Hide PVP talents you never use
+## Author: Dezopri
+## IconTexture: Interface\Icons\Achievement_Arena_3v3_5.PNG
+
+## X-Curse-Project-ID: 1250263
+
+## SavedVariables: PTH_HiddenTalents
+
+PVPTalentHider.lua
