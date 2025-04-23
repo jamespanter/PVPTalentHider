@@ -7,6 +7,8 @@
 ## IconTexture: Interface\Icons\Achievement_Arena_3v3_5.PNG
 
 ## X-Curse-Project-ID: 1250263
+## X-WoWI-ID: 26924
+## X-Wago-ID: qKQxbD6x
 
 ## SavedVariables: PTH_HiddenTalents
 
